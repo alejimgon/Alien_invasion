@@ -5,6 +5,9 @@ A 2D space shooter game developed in Python using the Pygame module, inspired by
 ## Features
 - Engage in thrilling alien battles.
 - Customize game difficulty.
+    - Easy: 10 bullets
+    - Medium: 3 bullets
+    - Hard: 3 bullets
 - Track scores and view high scores.
 
 ## Installation
@@ -14,13 +17,13 @@ A 2D space shooter game developed in Python using the Pygame module, inspired by
 
 2. Navigate to the project directory.
 
-3. Install the required module.
+3. Install the required module:
     pip install pygame
 
-4. Run the game.
+4. Run the game:
     python alien_invasion.py
 
 ## Gameplay Instructions
-Use arrow keys to move your ship.
-Press the spacebar to fire at aliens.
-Avoid enemy projectiles and aim for high scores!
+- Use arrow keys to move your ship.
+- Press the spacebar to fire at aliens.
+- Avoid enemy projectiles and aim for high scores!
